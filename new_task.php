@@ -17,9 +17,7 @@
             <br />
             <textarea id="text" name="text" placeholder="Task"></textarea>
             <br />
-            <input type="text" id="lname" name="lname" placeholder="name">
-            <br />
-            <input type="text" id="lname" name="lname" placeholder="name">
+            <input type="text" id="date" name="date" placeholder="Created At">
             <br />
             <div class="buttons">
                 <button type="submit">Save</button>
