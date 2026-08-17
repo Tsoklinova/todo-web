@@ -13,9 +13,9 @@
 
     <div class="container">
         <form action="/action_page.php">
-            <input type="text" id="fname" name="fname" placeholder="name">
+            <input type="text" id="title" name="title" placeholder="Title">
             <br />
-            <input type="text" id="lname" name="lname" placeholder="name">
+            <textarea id="text" name="text" placeholder="Task"></textarea>
             <br />
             <input type="text" id="lname" name="lname" placeholder="name">
             <br />

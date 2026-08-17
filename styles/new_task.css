@@ -16,9 +16,9 @@ header {
     margin-bottom: 35px;
 }
 
-input {
-    display: flex;
-    justify-content: center;
+input,
+textarea {
+    display: block;
     margin: 0 auto;
     padding: 5px;
     width: 50%;
